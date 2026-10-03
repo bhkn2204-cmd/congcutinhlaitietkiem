@@ -7,7 +7,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("💰 Công cụ Tính Lãi Gửi Tiết Kiệm")
+st.title("💰 Công cụ Tính Lãi Gửi Tiết Kiệm của Kiều Nhi")
 st.write("Nhập thông tin khoản tiền gửi của bạn để tính toán tiền lãi chi tiết.")
 
 st.divider()
